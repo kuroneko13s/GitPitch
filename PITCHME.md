@@ -3,9 +3,9 @@ My first GitPitch repository
 
 ---
 
-###2枚目のスライド
+### 2枚目のスライド
 
-#GitPitch Pro
+# GitPitch Pro
 
 Note:
 - Test
@@ -14,8 +14,8 @@ Note:
 
 +++
 
-###　3枚目のスライド
+### 3枚目のスライド
 
 ---
 
-###　おわり
+### おわり
