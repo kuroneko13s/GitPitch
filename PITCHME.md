@@ -3,7 +3,7 @@ My first GitPitch repository
 
 ---
 
-###　2枚目のスライド
+###2枚目のスライド
 
 #GitPitch Pro
 
@@ -12,7 +12,7 @@ Note:
 - Speaker Note Test
 - Test
 
----
++++
 
 ###　3枚目のスライド
 
